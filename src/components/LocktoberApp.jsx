@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState, useEffect } from 'react';
 import { Sparkles, Lock, Flame, Heart, RefreshCw, CheckSquare, Square, Moon, Droplet } from 'lucide-react';
 
